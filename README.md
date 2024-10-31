@@ -1,5 +1,5 @@
 # HTML лендинг «Кто подвезеёт»
-## _Скоптирован мной из интернета и переделан под запрос заказчика_  
+## _Скопирован мной из интернета и переделан под запрос заказчика_  
 
 [![N|Solid](https://evronik.github.io/fixdriver/fixdriver.jpg)](https://evronik.github.io/fixdriver/)
 
